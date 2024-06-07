@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sushobhit</h1>
 <h3 align="center">A Full Stack Developer Trainee @nxtwave | A CCBPian at NxtWave | specializes in HTML, CSS, Bootstrap, JavaScript, React.js, Python, Node.js, SQLite,</h3>
+<h2>As a passionate coder, I am dedicated to continuously learning 📚 and adapting to new technologies and techniques. I am eager to bring my enthusiasm 🌟 and skills to your company, contributing to innovative projects 🚀 and dynamic solutions 💻.</h2>
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-sushobhit.vercel.app/](https://my-portfolio-sushobhit.vercel.app/)
 
